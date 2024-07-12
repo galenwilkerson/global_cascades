@@ -1,5 +1,7 @@
 # Global Cascades Simulation
 
+<img src="./Simulation.jpg" width="300" height="300">
+
 This repository hosts the code for a "Global Cascades Simulation" based on Watts' influential paper, "A simple model of global cascades". The simulation visualizes the frequency of cascades across different network densities and provides insights into how small initial shocks can lead to widespread effects in a network.
 
 ## Interactive Simulation
